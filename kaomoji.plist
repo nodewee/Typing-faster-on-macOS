@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 
-<!-- 
+<!--
 	author : 不迟any
 	github : https://github.com/NodeWee/mac_text_sub_list
 -->
@@ -454,6 +454,24 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ヽ(‘⌒´メ)ノ</string>
+		<key>shortcut</key>
+		<string>shengqi</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヽ(‘⌒´メ)ノ</string>
+		<key>shortcut</key>
+		<string>nu</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヽ(‘⌒´メ)ノ</string>
+		<key>shortcut</key>
+		<string>fan</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>¯\_(ツ)_/¯</string>
 		<key>shortcut</key>
 		<string>tanshou</string>
@@ -608,6 +626,11 @@
 		<key>shortcut</key>
 		<string>zaixian</string>
 	</dict>
-  
+	<dict>
+		<key>phrase</key>
+		<string>*★,°*:.☆(￣▽￣)/$:*.°★* 。</string>
+		<key>shortcut</key>
+		<string>sahua</string>
+	</dict>
 </array>
 </plist>
