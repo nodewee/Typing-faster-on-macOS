@@ -34,12 +34,6 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>√</string>
-		<key>shortcut</key>
-		<string>dui</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>𝞴</string>
 		<key>shortcut</key>
 		<string>lamda</string>
