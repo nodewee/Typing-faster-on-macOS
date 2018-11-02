@@ -39,10 +39,10 @@ clone repo 从 github 下载，或[度盘下载](https://pan.baidu.com/s/1smQ1Ln
 
 5，颜文字 ：(⌇ຶД⌇ຶ)，ﾉ￣□￣)ﾉ ~┻━┻，٩(๏.๏)۶   
 文件：kaomoji.plist  
-输入码是拼音
+输入码是拼音  
 
 <br />
 
 <br />
 
-> 本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。  
+> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>  
