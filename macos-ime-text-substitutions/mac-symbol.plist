@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<!--
+	by : 穿卡芦苇
+	source : https://typing.redesign.live/
+	Version : 20190403
+	CC BY-NC-SA
+-->
+
+<plist version="1.0">
+<array>
+	<dict>
+		<key>phrase</key>
+		<string>⌥</string>
+		<key>shortcut</key>
+		<string>macalt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string></string>
+		<key>shortcut</key>
+		<string>macapple</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⇪</string>
+		<key>shortcut</key>
+		<string>maccaps</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⌘</string>
+		<key>shortcut</key>
+		<string>maccmd</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⌃</string>
+		<key>shortcut</key>
+		<string>maccontrol</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⌃</string>
+		<key>shortcut</key>
+		<string>macctrl</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⌅</string>
+		<key>shortcut</key>
+		<string>macenter</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⌥</string>
+		<key>shortcut</key>
+		<string>macopt</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⌥</string>
+		<key>shortcut</key>
+		<string>macoption</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⎋</string>
+		<key>shortcut</key>
+		<string>macpower</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>↩</string>
+		<key>shortcut</key>
+		<string>macreturn</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⇧</string>
+		<key>shortcut</key>
+		<string>macshift</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<!--
+	by : 穿卡芦苇
+	source : https://typing.redesign.live/
+	Version : 20190403
+	CC BY-NC-SA
+-->
+
+<plist version="1.0">
+<array>
+	<dict>
+		<key>phrase</key>
+		<string>√</string>
+		<key>shortcut</key>
+		<string>dui</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>✓</string>
+		<key>shortcut</key>
+		<string>dui</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>✔︎</string>
+		<key>shortcut</key>
+		<string>dui</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>✕</string>
+		<key>shortcut</key>
+		<string>cuo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>✖︎</string>
+		<key>shortcut</key>
+		<string>cuo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>✗</string>
+		<key>shortcut</key>
+		<string>cuo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>✘</string>
+		<key>shortcut</key>
+		<string>cuo</string>
+	</dict>
+</array>
+</plist>

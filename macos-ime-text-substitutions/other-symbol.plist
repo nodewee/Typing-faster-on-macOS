@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<!--
+	by : 穿卡芦苇
+	source : https://typing.redesign.live/
+	Version : 20190403
+	CC BY-NC-SA
+-->
+
+<plist version="1.0">
+<array>
+	<dict>
+		<key>phrase</key>
+		<string>©</string>
+		<key>shortcut</key>
+		<string>copy</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>®</string>
+		<key>shortcut</key>
+		<string>reg</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>®</string>
+		<key>shortcut</key>
+		<string>zhuce</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>™</string>
+		<key>shortcut</key>
+		<string>tm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>°</string>
+		<key>shortcut</key>
+		<string>du</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>°</string>
+		<key>shortcut</key>
+		<string>ssd</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>𝞴</string>
+		<key>shortcut</key>
+		<string>lamda</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>㎥</string>
+		<key>shortcut</key>
+		<string>lfm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>㎡</string>
+		<key>shortcut</key>
+		<string>pfm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>µ</string>
+		<key>shortcut</key>
+		<string>miu</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>µ</string>
+		<key>shortcut</key>
+		<string>mu</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>￥</string>
+		<key>shortcut</key>
+		<string>rmb</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>σ</string>
+		<key>shortcut</key>
+		<string>sigma</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>θ</string>
+		<key>shortcut</key>
+		<string>theta</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>÷</string>
+		<key>shortcut</key>
+		<string>chu</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>★</string>
+		<key>shortcut</key>
+		<string>wjx</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>☆</string>
+		<key>shortcut</key>
+		<string>wjx</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>◎</string>
+		<key>shortcut</key>
+		<string>yuan</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>◉</string>
+		<key>shortcut</key>
+		<string>yuan</string>
+	</dict>
+</array>
+</plist>
