@@ -4,7 +4,7 @@
 
 ### 文件说明
 
-- `alfred-snippets` 目录下是 Alfred Snippets 文件
+- `alfred-snippets` 目录下是 Alfred Snippets 文件  
 如何导入.alfredsnippets文件？➦[参考这篇文章](https://toulan.fun/handbook/macos-type-arrow-symbol.html)
 
 - `macos-ime-text-substitutions` 目录下 `.plist` 文件是 macOS 输入法的文本替换列表文件。  
